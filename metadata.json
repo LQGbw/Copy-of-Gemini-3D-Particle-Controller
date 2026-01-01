@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini 3D Particle Controller",
+  "description": "Control a 3D particle system using hand gestures recognized by Google Gemini 2.5 Flash Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
